@@ -24,6 +24,7 @@ And, utilize these learnings to build a capstone project.
 Week 1: **Data Engineering Basics**
 - **[Introduction to Python](https://app.datacamp.com/learn/courses/introduction-to-python-for-developers)**
 - **[SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)**
+- **[GIT](https://app.datacamp.com/learn/courses/introduction-to-git)**
 
 Week 2: **Cloud Computation and Data Ingestion**
 - **[Cloud Computing](https://app.datacamp.com/learn/courses/understanding-cloud-computing)**
