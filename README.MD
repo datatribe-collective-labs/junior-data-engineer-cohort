@@ -80,7 +80,7 @@ This learning path combines free courses from curated platforms and Google Cloud
 
 ## Week 5: Orchestration, Visualization, and Capstone
 
-** Goal:** Build workflows and share results.
+**🎯 Goal:** Build workflows and share results.
 
 - [Airflow](https://github.com/sunjana2199/amazon_books_data_pipeline/tree/main)
 - [Visualize with Streamlit – DataCamp](https://www.datacamp.com/tutorial/streamlit)
@@ -90,7 +90,7 @@ This learning path combines free courses from curated platforms and Google Cloud
 
 - [Orchestrating Data Pipelines with Cloud Composer](https://www.cloudskillsboost.google/course_templates/69)
 
-** Capstone Project (Optional):**
+**Capstone Project (Optional):**
 
 **Ingest → Transform with BigQuery → Visualize with Streamlit → Orchestrate with Cloud Composer/Airflow**
 - Create a Dashboard in Streamlit to visualize the data
