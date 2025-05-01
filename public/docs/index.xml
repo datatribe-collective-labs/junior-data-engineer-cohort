@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on DataTribe Collective documents</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on DataTribe Collective documents</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/docs/learning_path/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/learning_path/</guid>
+      <description>&lt;p&gt;This project is part of DataTribe Collective free 4-week training program. Participants are required to follow the datacamp resources to learn and finally implement a capstone project out from the learnings.&lt;/p&gt;&#xA;&lt;h3 id=&#34;april-2025-cohort&#34;&gt;April 2025 Cohort &lt;a href=&#34;#april-2025-cohort&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the first cohort of DataTribe Collective. During this cohort, participants will learn the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cloud computing&lt;/li&gt;&#xA;&lt;li&gt;data ingestion&lt;/li&gt;&#xA;&lt;li&gt;data transformation&lt;/li&gt;&#xA;&lt;li&gt;orchestration&lt;/li&gt;&#xA;&lt;li&gt;data warehousing&lt;/li&gt;&#xA;&lt;li&gt;batch processing&lt;/li&gt;&#xA;&lt;li&gt;stream processing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And, utilize these learnings to build a capstone project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
