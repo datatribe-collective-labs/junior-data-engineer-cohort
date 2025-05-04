@@ -129,7 +129,7 @@ enabled             = true
 [menu]
 [[menu.primary]]
     name  = "Contents"
-    url = "docs/"
+    url = "/docs/"
     identifier = "docs"
     weight = 10
 
