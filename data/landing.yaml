@@ -5,7 +5,7 @@ hero:
   template: hero
 
   titleLogo:
-    path: "images/logos"
+    path: "images"
     filename: "DataTribe_logo.png"
     alt: "DataTribe Collective Logo"
     height: 80px
@@ -30,7 +30,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/learning_paths"
+    url: "/docs"
   # cta2Button:
   #   icon: construction
   #   btnText: "In Development"
