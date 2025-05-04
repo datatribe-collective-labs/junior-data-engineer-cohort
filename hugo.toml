@@ -1,4 +1,4 @@
-baseURL  ='https://datatribe-collective.github.io/junior-data-engineer-cohort/'
+baseURL = 'https://datatribe-collective.github.io/junior-data-engineer-cohort/'
 languageCode = 'en-us'
 title = 'DataTribe Collective documents'
 contentDir = 'content'
