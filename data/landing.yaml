@@ -30,7 +30,7 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/de_learning_path"
+    url: "/docs/learning_paths"
   # cta2Button:
   #   icon: construction
   #   btnText: "In Development"
