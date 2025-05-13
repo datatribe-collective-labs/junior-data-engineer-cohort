@@ -11,13 +11,13 @@ hero:
     height: 100px
 
   badge:
-    text: v0.1.0
+    text: v0.1.5
     color: primary # primary, secondary, success, danger, warning, info, light, dark
     pill: false # boolean
     soft: true # boolean
 
   title: "Data Engineer Learning Path for DataTribe Collective"
-  subtitle: This project is part of DataTribe Collective free 4-week training program. Participants are required to follow the datacamp resources to learn and finally implement a capstone project out from the learnings.
+  subtitle: This project is part of DataTribe Collective free 6-week training program. Participants are required to follow the datacamp resources to learn and finally implement a capstone project out from the learnings.
 
   # image:
   #   path: "images" # path to image under configured assets directory. default 'images'
