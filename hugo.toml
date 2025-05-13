@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://datatribe-collective.github.io/junior-data-engineer-cohort/'
 languageCode = 'en-us'
 title = 'DataTribe Collective documents'
 contentDir = 'content'
@@ -129,7 +129,7 @@ enabled             = true
 [menu]
 [[menu.primary]]
     name  = "Contents"
-    url = "docs/"
+    url = "/docs/"
     identifier = "docs"
     weight = 10
 

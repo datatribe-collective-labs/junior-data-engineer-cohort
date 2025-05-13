@@ -11,7 +11,7 @@ publishdate: "2023-05-03T22:37:22+01:00"
 tags: ["Beginners"]
 ---
 
-This project is part of DataTribe Collective free 4-week training program. Participants are required to follow the datacamp resources to learn and finally implement a capstone project out from the learnings.
+This project is part of DataTribe Collective free 6-week training program. Participants are required to follow the datacamp resources to learn and finally implement a capstone project out from the learnings.
 
 ### April 2025 Cohort
 
