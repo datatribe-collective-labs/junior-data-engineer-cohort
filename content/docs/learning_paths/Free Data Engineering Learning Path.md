@@ -1,6 +1,6 @@
 ---
 weight: 310
-title: "Free Data Engineering Learning Path (4–5 Weeks)"
+title: "Free Data Engineering Learning Path (6 Weeks)"
 date: "2023-05-03T22:37:22+01:00"
 draft: false
 author: ""
