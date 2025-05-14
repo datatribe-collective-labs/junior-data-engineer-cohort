@@ -29,4 +29,4 @@ And, utilize these learnings to build a capstone project.
 
 ### Learning Paths
 
-[Free Data Engineering Learning Path (4–5 Weeks)](/docs/learning_paths/free-data-engineering-learning-path/)
+[Free Data Engineering Learning Path (6 Weeks)](/docs/learning_paths/free-data-engineering-learning-path/)

@@ -54,7 +54,7 @@ your-name/
 
 ## Communication
 
-- Join the DataTribe Collective Discord server to connect with fellow learners, ask questions, and share your progress in the [#4-week-training channel](https://discord.gg/VAbEgj58cz).
+- Join the DataTribe Collective Discord server to connect with fellow learners, ask questions, and share your progress in the [#data-learning-path](https://discord.gg/VAbEgj58cz).
 - If you still are figuring out how to get started, please feel free to reach out, people can form groups and also commit to work together, but try to work individually as much as possible.
 - Datasets might be huge, so try to work on a smaller datasets first and then scale it up!
 
