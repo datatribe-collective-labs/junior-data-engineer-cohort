@@ -10,7 +10,7 @@ To run the this website locally, you need to install [Hugo](https://gohugo.io/in
 Clone the repository on your system:
 
 ```bash
-git clone git@github.com:datatribe-collective/junior-data-engineer-cohort.git
+git clone git@github.com:datatribe-collective-labs/junior-data-engineer-cohort.git
 ```
 
 To run the server run this bash command:
