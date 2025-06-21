@@ -13,7 +13,7 @@ tags: ["Beginners"]
 Welcome to the DataTribe Collective Data Engineering learnings repository!  
 This is a shared space for engineers to learn, build, and showcase their data engineering projects.
 
-you can find the project repository [here](https://github.com/datatribe-collective/data-engineering-learnings).
+you can find the project repository [here](https://github.com/datatribe-collective-labs/data-engineering-learnings).
 
 ## 👥 How to Contribute
 
