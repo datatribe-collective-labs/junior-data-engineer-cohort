@@ -1,4 +1,4 @@
-baseURL = 'https://datatribe-collective.github.io/junior-data-engineer-cohort/'
+baseURL = 'https://datatribe-collective-labs.github.io/junior-data-engineer-cohort/'
 languageCode = 'en-us'
 title = 'DataTribe Collective documents'
 contentDir = 'content'
@@ -52,7 +52,7 @@ prism           = true                                # enable syntax highlighti
 prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
 # gitinfo
-repoURL         = "https://github.com/datatribe-collective/junior-data-engineer-cohort"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+repoURL         = "https://github.com/datatribe-collective-labs/junior-data-engineer-cohort"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
 repoBranch      = "release"
 editPage        = true                                # enable 'Edit this page' feature - default false
 lastMod         = true                                # enable 'Last modified' date on pages - default false

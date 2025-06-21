@@ -98,7 +98,7 @@ This learning path combines free courses from curated platforms and Google Cloud
 
 ## Repository and Practicalities
 
-- Fork this [data-engineering-learnings](https://github.com/datatribe-collective/data-engineering-learnings) to your own GitHub account
+- Fork this [data-engineering-learnings](https://github.com/datatribe-collective-labs/data-engineering-learnings) to your own GitHub account
 - Go checkout the repo for more details.
 
 ## Discord
